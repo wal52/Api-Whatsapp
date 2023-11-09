@@ -1,4 +1,4 @@
-git clone https://github.com/leifermendez/api-whatsapp-ts
+git clone https://github.com/wal52/Api-Whatsapp
 cd api-whatsapp-ts
 npm install
 npm run build

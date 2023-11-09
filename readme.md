@@ -5,7 +5,7 @@ Este es un proyecto pensado para crear un chatbot utilizando node y python utili
 
 Paso 1:
 ```
-git clone https://github.com/leifermendez/api-whatsapp-ts
+git clone https://github.com/wal52/Api-Whatsapp-ts
 
 ```
 
